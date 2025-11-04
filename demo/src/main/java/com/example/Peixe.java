@@ -1,4 +1,5 @@
-package animais;
+package com.example;
+
 
 public class Peixe extends Animal{
     public Peixe(String nome) {

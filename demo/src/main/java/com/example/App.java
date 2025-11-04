@@ -1,8 +1,4 @@
 package com.example;
-import animais.Animal;
-import animais.Cachorro;
-import animais.Gato;
-import animais.Peixe;
 
 import java.util.ArrayList;
 import java.util.List;

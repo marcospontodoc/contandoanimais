@@ -1,4 +1,5 @@
-package animais;
+package com.example;
+
 
 public class Animal{
     protected String nome;
